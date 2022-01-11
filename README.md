@@ -1,7 +1,7 @@
 # Chatbot_rule_based
 
-# Description: 
+Description: 
 In this project, I learned and practise creating rule-based chatbots.
 
-# Credits: 
+Credits: 
 Thank to CodeAcademy for this exercise project. 
